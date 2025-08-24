@@ -14,5 +14,5 @@ A simple React project that displays a list of tours. Users can expand/collapse 
 
 ---
 
-## 📂 Project Structure  
+
 

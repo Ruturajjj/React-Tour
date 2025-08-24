@@ -1,16 +1,31 @@
-# 🧳 React Tours Project  
+# 🌐 React Frontend Project
 
-A simple React project that displays a list of tours. Users can expand/collapse tour descriptions, remove tours they’re not interested in, and refresh the list when all tours are removed.  
+A simple React-based frontend project built with **Vite** and styled using **CSS**.  
+This project demonstrates basic React concepts like components, props, and state management.
 
 ---
 
-## 🚀 Features  
+## 🚀 Live Demo
+👉 [View Project]https://react-tour-gamma.vercel.app/)  
 
-- Display list of tours with name, price, image, and description  
-- "Read More / Show Less" toggle for long descriptions  
-- "Not Interested" button to remove a tour from the list  
-- "Refresh" button to reload the original tours when none are left  
-- Styled with **CSS (Poppins font + custom styles)**  
+*(Replace the above link with your actual deployed URL from Vercel, Netlify, or GitHub Pages)*
+
+---
+
+## 📦 Features
+- ⚛️ Built with **React + Vite**  
+- 🎨 Styled with **CSS (Poppins font family)**  
+- 🧩 Modular components  
+- 📱 Responsive layout  
+
+---
+
+## 🛠️ Installation & Setup
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
 
 ---
 

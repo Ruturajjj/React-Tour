@@ -1,12 +1,18 @@
-# React + Vite
+# 🧳 React Tours Project  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React project that displays a list of tours. Users can expand/collapse tour descriptions, remove tours they’re not interested in, and refresh the list when all tours are removed.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+- Display list of tours with name, price, image, and description  
+- "Read More / Show Less" toggle for long descriptions  
+- "Not Interested" button to remove a tour from the list  
+- "Refresh" button to reload the original tours when none are left  
+- Styled with **CSS (Poppins font + custom styles)**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure  
+
